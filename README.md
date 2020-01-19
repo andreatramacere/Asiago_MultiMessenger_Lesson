@@ -2,7 +2,8 @@
 
 
 
-## instructionsx
+## instructions
+
 To install jetset: https://jetset.readthedocs.io/en/latest/install.html
 
 
