@@ -40,8 +40,7 @@ ENV USER ${NB_USER}
 ENV NB_UID ${NB_UID}
 ENV HOME /home/${NB_USER}
 
-ADD *.ipynb $HOME/notebooks/QuickStart.ipynb
-
+ADD *.ipynb $HOME/notebooks/
 
 RUN adduser --disabled-password \
     --gecos "Default user" \
