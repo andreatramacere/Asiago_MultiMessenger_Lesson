@@ -25,6 +25,7 @@ If you used binaries from ANACONDA
 	4) python -c 'from jetset.tests import test_functions; test_functions.test_short()'
 
 If you installed from source:
+	
 	1) download https://github.com/andreatramacere/jetset/archive/testubuntu.tar.gz
 	2) untar
 	3) cd jetset-testubuntu
