@@ -11,8 +11,10 @@ OR if you don't have git installed on your machine
 
 ## instructions To install the code
 
-- to install jetset: visit https://jetset.readthedocs.io/en/latest/install.html
+- be sure to have jupyter-notebook and matplotlib  installed on your machine, and in the same environment where you installed jetset.
+  
 
+- to install jetset: visit https://jetset.readthedocs.io/en/latest/install.html
 
 - general documentation on JetSeT https://jetset.readthedocs.io/en/latest/index.html
 
