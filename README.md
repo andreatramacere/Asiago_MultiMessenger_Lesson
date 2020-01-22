@@ -16,7 +16,7 @@ OR if you don't have git installed on your machine
 
 - general documentation on JetSeT https://jetset.readthedocs.io/en/latest/index.html
 
-- be sure to have jupyter notebook installe on your machine, and in the same environment where you installed jeteset
+- be sure to have jupyter notebook installed on your machine, and in the same environment where you installed jetset
 
 **For those not being able to install, in particular WINDOWS users, use binder**
 
