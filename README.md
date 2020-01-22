@@ -11,16 +11,16 @@ OR if you don't have git installed on your machine
 
 ## instructions To install the code
 
-- to install jetset: https://jetset.readthedocs.io/en/latest/install.html
+- to install jetset: visit https://jetset.readthedocs.io/en/latest/install.html
 
 
-general documentation on JetSeT https://jetset.readthedocs.io/en/latest/index.html
+- general documentation on JetSeT https://jetset.readthedocs.io/en/latest/index.html
 
 
-** For those not being able to install, in particular WINDOWS users **
+**For those not being able to install, in particular WINDOWS users, use binder**
    you can run all the notebooks on a remote server just press the link below (no need to download notebooks in this case)
 
-to run on binder
+
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andreatramacere/Asiago_MultiMessenger_Lesson/master)
 
