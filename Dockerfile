@@ -41,7 +41,7 @@ ENV NB_UID ${NB_UID}
 ENV HOME /home/${NB_USER}
 
 ADD *.ipynb $HOME/notebooks/
-
+ADD images $HOME/notebooks/images
 RUN adduser --disabled-password \
     --gecos "Default user" \
     --uid ${NB_UID} \
