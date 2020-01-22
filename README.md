@@ -1,14 +1,24 @@
 # Asiago_MultiMessenger_Lesson
 
-git repo with notebooks: https://github.com/andreatramacere/Asiago_MultiMessenger_Lesson
+## git repo with notebooks: 
 
+- to get the notebooks:
+  `git clone https://github.com/andreatramacere/Asiago_MultiMessenger_Lesson`
 
-## instructions
+OR if you don't have git installed on your machine
 
-To install jetset: https://jetset.readthedocs.io/en/latest/install.html
+- download visiting https://github.com/andreatramacere/Asiago_MultiMessenger_Lesson
+
+## instructions To install the code
+
+- to install jetset: https://jetset.readthedocs.io/en/latest/install.html
 
 
 general documentation on JetSeT https://jetset.readthedocs.io/en/latest/index.html
+
+
+** For those not being able to install, in particular WINDOWS users **
+   you can run all the notebooks on a remote server just press the link below (no need to download notebooks in this case)
 
 to run on binder
 
