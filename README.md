@@ -19,7 +19,7 @@ to run on binder
 
 	If you used binaries from ANACONDA on LINUX
 
-		1) download this file: https://drive.google.com/file/d/12uZBCxZH1IJg5CWjvqvaONiUMT3SfdRD/view?usp=sharing
+		1) download this file: https://drive.google.com/file/d/1b6i097o-Lps9A7KwumyE814E6xKfSpfk/view?usp=sharing
 		2) uninstall jetset: conda uninstall jetset
 		3) conda install  --yes --offline jetset-1.1.1-0.tar.bz2
 		4) python -c 'from jetset.tests import test_functions; test_functions.test_short()'
