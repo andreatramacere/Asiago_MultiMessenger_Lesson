@@ -16,12 +16,13 @@ OR if you don't have git installed on your machine
 
 - general documentation on JetSeT https://jetset.readthedocs.io/en/latest/index.html
 
+- be sure to have jupyter notebook installe on your machine, and in the same environment where you installed jeteset
 
 **For those not being able to install, in particular WINDOWS users, use binder**
 
     you can run all the notebooks on a remote server just press the link below (no need to download notebooks in this case)
 
-    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andreatramacere/Asiago_MultiMessenger_Lesson/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andreatramacere/Asiago_MultiMessenger_Lesson/master)
 
 
 **ONLY For those having issues with Linux and the F_sync.dat file:**
