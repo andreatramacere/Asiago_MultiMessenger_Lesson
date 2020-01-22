@@ -21,7 +21,7 @@ OR if you don't have git installed on your machine
 
 **ONLY For those not being able to install, in particular WINDOWS users, use binder**
 
-    you can run all the notebooks on a remote server just press the link below (no need to download notebooks in this case)
+ you can run all the notebooks on a remote server just press the link below (no need to download notebooks in this case)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andreatramacere/Asiago_MultiMessenger_Lesson/master)
 
