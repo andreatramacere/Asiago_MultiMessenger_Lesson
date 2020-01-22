@@ -1,6 +1,6 @@
 # Asiago_MultiMessenger_Lesson
 
-## git repo with notebooks: 
+## git repo with notebooks 
 
 - to get the notebooks:
   `git clone https://github.com/andreatramacere/Asiago_MultiMessenger_Lesson`
