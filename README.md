@@ -23,7 +23,7 @@ to run on binder
 		3) untar
 		4) cd jetset-patch
 		2) uninstall jetset: conda uninstall jetset
-		4) conda install --file requirements.txt (or conda install -c astropy jetset)
+		4) conda install --file requirements.txt (or conda install -c astropy --file requirements.txt)
 		3) conda install  --yes --offline jetset-1.1.1-0.tar.bz2
 		4) python -c 'from jetset.tests import test_functions; test_functions.test_short()'
 
