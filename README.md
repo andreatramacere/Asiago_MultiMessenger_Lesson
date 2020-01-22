@@ -13,12 +13,9 @@ OR if you don't have git installed on your machine
 
 - be sure to have jupyter-notebook, matplotlib and ipython installed on your machine, and in the same environment where you install jetset.
   
-
 - to install jetset: visit https://jetset.readthedocs.io/en/latest/install.html
 
 - general documentation on JetSeT https://jetset.readthedocs.io/en/latest/index.html
-
-- be sure to have jupyter notebook installed on your machine, and in the same environment where you installed jetset
 
 **For those not being able to install, in particular WINDOWS users, use binder**
 
