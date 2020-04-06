@@ -17,7 +17,7 @@ OR if you don't have git installed on your machine
 
 - general documentation on JetSeT https://jetset.readthedocs.io/en/latest/index.html
 
-# run notebooks on mybinderL
+# run notebooks on mybinder:
 
 
  you can run all the notebooks on a remote server just press the link below (no need to download notebooks in this case)
