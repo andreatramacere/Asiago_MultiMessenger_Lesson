@@ -20,7 +20,7 @@ OR if you don't have git installed on your machine
 ## run notebooks on mybinder
 
 
- you can run all the notebooks on a remote server just press the link below (no need to download notebooks in this case)
+ you can run all the notebooks on a remote server just press the link below (no need to download notebooks, and to install the code, in this case)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andreatramacere/Asiago_MultiMessenger_Lesson/master)
 
